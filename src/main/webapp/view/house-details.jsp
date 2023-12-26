@@ -3,7 +3,7 @@
 <html lang="en">
   <head>
     <%@ include file="components/header.jsp" %>
-    <link rel="stylesheet" href="/css/cars.css" />
+    <link rel="stylesheet" href="/css/house.css" />
   </head>
   <body>
     <!-- Navbar -->
